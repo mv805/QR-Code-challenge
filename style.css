@@ -16,6 +16,7 @@ body {
     align-items: center;
     justify-content: center;
     
+    
 }
 
 p {
@@ -39,6 +40,7 @@ main {
     width: 250px;
     padding: 1rem 1rem 1.5rem 1rem;
     background-color: hsl(0, 0%, 100%);
+    
 }
 
 main img {
@@ -46,7 +48,8 @@ main img {
     border-radius: .75rem;
 }
 
-.attribution {
+footer {
+    border: 1px solid black;
     width: 250px;
     text-align: center;
     padding: 0 1rem;
