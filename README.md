@@ -20,8 +20,8 @@ A Frontend Mentor project to replicate a given design of a QR code graphic with 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/mv805/QR-Code-challenge.git)
-- Live Site URL: [Add live site URL here](https://mv805.github.io/QR-Code-challenge/)
+- Solution URL: [Solution](https://github.com/mv805/QR-Code-challenge.git)
+- Live Site URL: [Live Site](https://mv805.github.io/QR-Code-challenge/)
 
 ## My process
 This was a simple introduction to image and flexbox formatting. Some simple semantic markup was used as well to organize the HTML in a more readable way.
@@ -34,5 +34,5 @@ This was a simple introduction to image and flexbox formatting. Some simple sema
 
 ## Author
 
-- Website - [Add your name here](https://mv805.github.io/)
+- Website - [My Portfolio](https://mv805.github.io/)
 - Frontend Mentor - [@mv805](https://www.frontendmentor.io/profile/mv805)
